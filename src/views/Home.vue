@@ -14,6 +14,7 @@
             first: "li"
         }
     };
+
     export default {
         name: 'home',
         components: {
